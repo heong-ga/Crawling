@@ -17,7 +17,6 @@ def main():
     print(list_title)
     print(list_nickname)
 
-    
 
 if __name__ == "__main__":
     main()
